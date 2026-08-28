@@ -8,13 +8,13 @@ Thank you for your interest in contributing.
 
 2. **Clone** your fork locally:
    ```bash
-   git clone [https://github.com/RP-Choudhury/Algebraic-Professor.git](https://github.com/RP-Choudhury/Algebraic-Professor.git)
+   git clone https://github.com/RP-Choudhury/Algebraic-Professor.git
    cd Algebriac-Professor
 
 3. Create a virtual environment and install dependencies
 - macOS/Linux/WSL: 
   ```bash
-  python3 -m venv .vent
+  python3 -m venv .venv
   source .venv/bin/activate
   pip install -r requirements.txt
 
