@@ -3,6 +3,9 @@
 > An interactive, ingenious terminal based math game built completely in Python.
 
 ---
+> ### ⚠️ Academic Honesty Warning
+> In accordance with the [CS50 Academic Honesty Policy](https://cs50.harvard.edu/python/honesty/), current students must not submit, copy or adapt any part of this codebase for their own coursework or final project submissions. Copying or reusing in any manner will count as plaigiarism and identified will cause disqualification from the course or revocation of the course certificate(s).
+---
 ## Overview
 Hey, I am **RP**. This is Big Professor the TUI (Terminal User Interface) game developed by me as my final assignment for CS50's Introduction to Programming with Python Course. It is simple fast and easy to understand game which takes inspiration from the 70's classic game, [Little Professor](https://en.wikipedia.org/wiki/Little_Professor).
 
