@@ -7,7 +7,7 @@
 > In accordance with the [CS50 Academic Honesty Policy](https://cs50.harvard.edu/python/honesty/), current students must not submit, copy or adapt any part of this codebase for their own coursework or final project submissions. Copying or reusing in any manner will count as plaigiarism and if identified will cause disqualification from the course(s) or revocation of the course certificate(s).
 ---
 ## Overview
-Hey, I am **RP**. This is Big Professor a TUI (Terminal User Interface) game developed by me as my final assignment for CS50's Introduction to Programming with Python Course. It is simple, fast and easy to understand game which takes inspiration from the 70's classic, [Little Professor](https://en.wikipedia.org/wiki/Little_Professor).
+Hey, I am **RP**. This is Big Professor, a TUI (Terminal User Interface) game developed by me as my final assignment for CS50's Introduction to Programming with Python Course. It is simple, fast and easy to understand game which takes inspiration from the 70's classic, [Little Professor](https://en.wikipedia.org/wiki/Little_Professor).
 
 Like [Little Professor](https://en.wikipedia.org/wiki/Little_Professor), Big Professor too comes with difficulty levels, attempt based auto-answering and final score calculation. Its graphics include ASCII banners for the Start Menu and Game Over Menu with a continuous unbroken design style. 
 
